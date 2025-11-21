@@ -1,0 +1,15 @@
+{
+  "habits": [
+    {
+      "id": 1,
+      "name": "öljgc",
+      "description": "ghjhg",
+      "frequency": "4",
+      "is_done_today": true,
+      "created_at": "2025-11-21T08:34:37.031852",
+      "history": [
+        "2025-11-21"
+      ]
+    }
+  ]
+}

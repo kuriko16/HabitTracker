@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/myapp/__init__.py
+src/myapp/main.py
+src/myapp.egg-info/PKG-INFO
+src/myapp.egg-info/SOURCES.txt
+src/myapp.egg-info/dependency_links.txt
+src/myapp.egg-info/requires.txt
+src/myapp.egg-info/top_level.txt
+src/myapp/adapters/json_storage.py
+src/myapp/app/habit_tracker_gui.py
+src/myapp/app/main.py
+src/myapp/business_logic/habit_manager.py
+src/myapp/business_logic/xp_system.py
+src/myapp/contracts/habit_contract.py
+src/myapp/contracts/storage_interface.py
+src/myapp/dummies/mock_storage.py
