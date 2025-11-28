@@ -8,6 +8,7 @@ src/myapp.egg-info/dependency_links.txt
 src/myapp.egg-info/requires.txt
 src/myapp.egg-info/top_level.txt
 src/myapp/adapters/json_storage.py
+src/myapp/app/__init__.py
 src/myapp/app/habit_tracker_gui.py
 src/myapp/app/main.py
 src/myapp/business_logic/habit_manager.py
